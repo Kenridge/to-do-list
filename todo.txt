@@ -1,5 +1,11 @@
 MY TO-DO LIST
 
+#####################
+#                   #
+# By Kenridge       #
+#                   #
+#####################
+
 1. Write an article.
 2. Code.
 3. Focus on studies.
